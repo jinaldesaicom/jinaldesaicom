@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @jinaldesailive
+# 👋 Hi, I’m @jinaldesailive
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fjinaldesai.com)](https://jinaldesai.com)
+
 - 👀 I’m interested in System Design and Architecture, Google Cloud, DevOps, SRE, Best Practices, Security, etc.
 - 🌱 I’m currently learning practical use cases of various GCP services (always learning), cost optimization, implementing best practices, implementing security on the cloud, etc. 
-- 📫 How to reach me: [jinaldesai.com](https://jinaldesai.com/)
+
+## Connect with me:
+
+![website](./img/linkedin-light.svg)](https://linkedin.com/in/jinaldesailive#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jinaldesailive#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/jinaldesailive#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/jinaldesailive#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/jinaldesailive#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/jinaldesailive#gh-dark-mode-only)
 
 <!---
 jinaldesailive/jinaldesailive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
