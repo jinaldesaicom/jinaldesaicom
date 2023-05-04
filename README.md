@@ -11,7 +11,7 @@
 ![website](./img/linkedin-light.svg)](https://linkedin.com/in/jinaldesailive#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/jinaldesailive#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Twitter_black.svg)](https://twitter.com/jinaldesailive#gh-light-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Color/Twitter.svg)](https://twitter.com/jinaldesailive)
 [![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/Twitter_white.svg)](https://twitter.com/jinaldesailive#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/jinaldesailive#gh-light-mode-only)
