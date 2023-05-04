@@ -8,7 +8,7 @@
 
 ## Connect with me:
 
-![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/LinkedIN_black.svg)](https://linkedin.com/in/jinaldesailive#gh-light-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/LinkedIN_black.svg)](https://linkedin.com/in/jinaldesailive#gh-light-mode-only)
 [![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/LinkedIN_white.svg)](https://linkedin.com/in/jinaldesailive#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Twitter_black.svg)](https://twitter.com/jinaldesailive#gh-light-mode-only)
