@@ -28,11 +28,11 @@ Currently, I have the privilege of shaping the future of cloud engineering as a 
 
 ### 🎓 Certified Excellence
 
-[Professional Cloud Architect Certification](https://www.credly.com/badges/29773667-ce0e-485f-ba03-a241fefd6a26)
-[Professional Cloud DevOps Engineer Certification](https://www.credly.com/badges/7a61edbd-4f35-4d89-8aec-4a7fea2d843d)
-[GitHub Actions](https://www.credly.com/badges/b2c81baf-1b3e-4668-af34-47a40fa27991)
-[GitHub Advanced Security](https://www.credly.com/badges/67530137-afea-4d25-89cb-fde3c4c08ba5)
-[Professional Scrum Master I – scrum.org](https://www.credly.com/badges/c1c7f1f8-307b-4651-991a-cf761d50ee1a)
+- [Professional Cloud Architect Certification](https://www.credly.com/badges/29773667-ce0e-485f-ba03-a241fefd6a26)
+- [Professional Cloud DevOps Engineer Certification](https://www.credly.com/badges/7a61edbd-4f35-4d89-8aec-4a7fea2d843d)
+- [GitHub Actions](https://www.credly.com/badges/b2c81baf-1b3e-4668-af34-47a40fa27991)
+- [GitHub Advanced Security](https://www.credly.com/badges/67530137-afea-4d25-89cb-fde3c4c08ba5)
+- [Professional Scrum Master I – scrum.org](https://www.credly.com/badges/c1c7f1f8-307b-4651-991a-cf761d50ee1a)
 
 ### 🌟 Innovator | Mentor | Continuous Learner | Tech Enthusiast
 
