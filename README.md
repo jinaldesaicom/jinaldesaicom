@@ -5,9 +5,9 @@
 <!-- - 👀 I’m interested in System Design and Architecture, Google Cloud, DevOps, SRE, Best Practices, Security, etc.
 - 🌱 I’m currently learning practical use cases of various GCP services (always learning), cost optimization, implementing best practices, implementing security on the cloud, etc.  -->
 
-## 🚀 Principal Cloud Engineer | DevOps Innovator | Google Cloud Architect | Technical Leader & Mentor
+## 🚀 Cloud Architect | DevOps Innovator | Google Cloud Architect | Technical Leader & Mentor
 
-With over 17 years at the cutting edge of the IT industry, I bring a wealth of experience across Development, Architecture, Engineering, and Product & Service Delivery. My career has been a journey of driving transformative projects and fostering innovation, from building robust cloud architectures to leading high-performance teams in DevOps excellence.
+With over 18 years at the cutting edge of the IT industry, I bring a wealth of experience across Development, Architecture, Engineering, and Product & Service Delivery. My career has been a journey of driving transformative projects and fostering innovation, from building robust cloud architectures to leading high-performance teams in DevOps excellence.
 
 Currently, I have the privilege of shaping the future of cloud engineering as a Principal Cloud Engineer at a leading IT company. My role goes beyond just technical delivery—I am a strategic thinker, a mentor, and a leader who believes in the power of collaboration to achieve outstanding results. I excel in taking projects from concept to launch, orchestrating everything from resourcing and technical evaluations to team formation, solution architecture, and seamless deployment.
 
