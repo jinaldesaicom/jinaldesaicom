@@ -40,11 +40,11 @@ I am passionate about the ever-evolving tech landscape and thrive on connecting 
 
 ## Connect with me:
 
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/LinkedIN_black.svg)](https://linkedin.com/in/jinaldesailive#gh-light-mode-only)
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/LinkedIN_white.svg)](https://linkedin.com/in/jinaldesailive#gh-dark-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/LinkedIN_black.svg)](https://linkedin.com/in/jinaldesaicom#gh-light-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/LinkedIN_white.svg)](https://linkedin.com/in/jinaldesaicom#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Twitter_black.svg)](https://twitter.com/jinaldesailive#gh-light-mode-only)
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/Twitter_white.svg)](https://twitter.com/jinaldesailive#gh-dark-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Twitter_black.svg)](https://twitter.com/jinaldesaicom#gh-light-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/Twitter_white.svg)](https://twitter.com/jinaldesaicom#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Instagram_black.svg)](https://instagram.com/jinaldesailive#gh-light-mode-only)
-[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/Instagram_white.svg)](https://instagram.com/jinaldesailive#gh-dark-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/Black/Instagram_black.svg)](https://instagram.com/jinaldesaicom#gh-light-mode-only)
+[![website](https://github.com/jinaldesailive/social-icons/blob/master/SVG/White/Instagram_white.svg)](https://instagram.com/jinaldesaicom#gh-dark-mode-only)
