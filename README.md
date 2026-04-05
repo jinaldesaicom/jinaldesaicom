@@ -2,6 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=jinaldesai.com&style=for-the-badge&url=https%3A%2F%2Fjinaldesai.com)](https://jinaldesai.com)
 
+[![Website](https://img.shields.io/website?label=untrackt.com&style=for-the-badge&url=https%3A%2F%2Funtrackt.com)](https://untrackt.com)
+
+[![Sponsor](https://img.shields.io/github/sponsors/jinaldesaicom?style=flat&logo=github&label=Sponsor)](https://github.com/sponsors/jinaldesaicom)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 <!-- - 👀 I’m interested in System Design and Architecture, Google Cloud, DevOps, SRE, Best Practices, Security, etc.
 - 🌱 I’m currently learning practical use cases of various GCP services (always learning), cost optimization, implementing best practices, implementing security on the cloud, etc.  -->
 
