@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @jinaldesailive
+## 👋 Hi, I’m @jinaldesaicom
 
 [![Website](https://img.shields.io/website?label=certqna.com&style=for-the-badge&url=https%3A%2F%2Fcertqna.com)](https://certqna.com)   [![Website](https://img.shields.io/website?label=budgetmirror.com&style=for-the-badge&url=https%3A%2F%2Fbudgetmirror.com)](https://budgetmirror.com)
 [![Website](https://img.shields.io/website?label=jinaldesai.com&style=for-the-badge&url=https%3A%2F%2Fjinaldesai.com)](https://jinaldesai.com)   [![Website](https://img.shields.io/website?label=untrackt.com&style=for-the-badge&url=https%3A%2F%2Funtrackt.com)](https://untrackt.com)   
